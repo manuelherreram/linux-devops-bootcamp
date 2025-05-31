@@ -12,5 +12,3 @@ Welcome to my personal Linux learning journey! This repo contains my progress th
 ## 🎯 Goal
 
 To become confident in Linux system administration and DevOps workflows, using Fedora 42 and real-world practices.
-
----

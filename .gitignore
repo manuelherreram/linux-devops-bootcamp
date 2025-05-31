@@ -1,0 +1,9 @@
+*.log
+*.swp
+*.tmp
+__pycache__/
+system_reports/
+*.tar
+*.gz
+*.zip
+*.bak
